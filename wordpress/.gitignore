@@ -17,9 +17,6 @@
 /wp-*.php
 /xmlrpc.php
 
-# Configuration
-wp-config.php
-
 # Example themes
 /wp-content/themes/twenty*/
 
@@ -31,9 +28,6 @@ wp-config.php
 
 # Log files
 *.log
-
-# htaccess
-/.htaccess
 
 # All plugins
 #
