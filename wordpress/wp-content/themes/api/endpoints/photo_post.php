@@ -31,9 +31,9 @@ function api_photo_post($request)
     'post_content' => $dog_name,
     'files' => $dog_photo,
     'meta_input' => [
-      'peso' => $dog_weight,
-      'idade' => $dog_age,
-      'acessos' => 0,
+      'weight' => $dog_weight,
+      'age' => $dog_age,
+      'views' => 0,
     ],
   ];
 
