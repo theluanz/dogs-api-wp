@@ -21,6 +21,8 @@ require_once($dirbase . '/endpoints/comment_post.php');
 
 require_once($dirbase . '/endpoints/password.php');
 
+require_once($dirbase . '/endpoints/stats.php');
+
 update_option('large_size_w', 1000);
 update_option('large_size_h', 1000);
 update_option('large_crop', 1);
